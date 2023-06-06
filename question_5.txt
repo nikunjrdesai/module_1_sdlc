@@ -1,0 +1,2 @@
+ What is Flow chart? Create a flowchart to make addition of two numbers
+ans : flow chart is a pictorial representation of algorithms.

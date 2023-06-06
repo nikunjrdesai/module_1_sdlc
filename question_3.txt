@@ -1,0 +1,10 @@
+ What is SDLC? Explain each phase of SDLC?
+ans : SDLC is one type of software development life cycle.
+there is 7 phase included in sdlc,
+(1) software requriment
+(2) software analysis
+(3) software designing
+(4) software development
+(5) software testing
+(6) software deployment
+(7) software meintenance

@@ -1,0 +1,2 @@
+ What is software? What is software engineering?
+ans : Software is a set of instructions, data or programs used to operate computers and execute specific tasks,Software Engineering is an engineering branch related to the evolution of software product using well-defined scientific principles, techniques.

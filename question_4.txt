@@ -1,0 +1,2 @@
+ What is DFD? Create a DFD diagram on Flipkart?
+ans : DFD is data flow diagram.
